@@ -1,6 +1,6 @@
 <h1>Privacy Policy </h1>
 
-Thank you for downloading Bridal Dress Photo Editor.It is the policy of  Bridal Dress Photo Editor to respect your privacy, 
+Thank you for downloading Photo Editor.It is the policy of Photo Editor to respect your privacy, 
 and the privacy of all users of our applications. 
 This Privacy Policy (the “Policy”) has been established to help you understand our commitment to protecting 
 your privacy, and the steps we take to ensure it.
@@ -8,8 +8,8 @@ your privacy, and the steps we take to ensure it.
 
 <b>No Collection of Personal Information</b>
 
-Bridal Dress Photo Editor does not gather any of your personal information 
-while you are using the Application.Under no circumstances does Bridal Dress Photo Editor collect, download or 
+Photo Editor does not gather any of your personal information 
+while you are using the Application.Under no circumstances does Photo Editor collect, download or 
 otherwise make copies of any recordings you make using the Application
 
 <b>General Information Transfer</b>
@@ -21,7 +21,7 @@ You may also share data using the Application’s Share function.
 
 <b>Third-Party Advertisements</b>
 
-You have downloaded Bridal Dress Photo Editor,the Application uses Google, a third party vendor, to serve advertisements 
+You have downloaded Photo Editor,the Application uses Google, a third party vendor, to serve advertisements 
 in the Application, using the AdMob system . By using the Application, 
 you consent to the delivery of these advertisements and any data collected by Google, as per the 
 Privacy Policy of AdMob.
